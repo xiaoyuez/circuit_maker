@@ -16,17 +16,17 @@ This is a toy project that creates customized workout programs for you. It start
 1. Once you have cloned it, go to terminal and run `~/circuit_maker/circuit_gui.py`, it should automatically start.
 
 2.  On this window, specify the number of circuits, the number of sets ( n sets = 1 circuit) and the number of repeats ( e.g. 2 means to repeat each circuit twice).  And select the body part to train and the desired training intensity.
-![img1](/Users/xiaoyue/Desktop/repo/circuit_maker/images/1.png)
+![img1](https://github.com/xiaoyuez/circuit_maker/blob/master/images/1.png)
 
 3.  On this window, specifiy the duration (in seconds) for each period in your workout. The default should work for most people.
-![img2](/Users/xiaoyue/Desktop/repo/circuit_maker/images/2.png)
+![img2](https://github.com/xiaoyuez/circuit_maker/blob/master/images/2.png)
 
 4. The program will start. You will see these following windows:
-![img3](/Users/xiaoyue/Desktop/repo/circuit_maker/images/3.png)
-![img4](/Users/xiaoyue/Desktop/repo/circuit_maker/images/4.png)
-![img5](/Users/xiaoyue/Desktop/repo/circuit_maker/images/5.png)
-![img6](/Users/xiaoyue/Desktop/repo/circuit_maker/images/6.png)
-![img7](/Users/xiaoyue/Desktop/repo/circuit_maker/images/7.png)
+![img3](https://github.com/xiaoyuez/circuit_maker/blob/master/images/3.png)
+![img4](https://github.com/xiaoyuez/circuit_maker/blob/master/images/4.png)
+![img5](https://github.com/xiaoyuez/circuit_maker/blob/master/images/5.png)
+![img6](https://github.com/xiaoyuez/circuit_maker/blob/master/images/6.png)
+![img7](https://github.com/xiaoyuez/circuit_maker/blob/master/images/7.png)
 
 ## Future improvements
 1. As this started out as a personal project, it just provides the workout name, assuming the user already knows what to do.  In the future version, I would like to add some verbal / image / video instructions to make it clear to new users. 
