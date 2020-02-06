@@ -18,13 +18,6 @@ df = pd.read_csv("~/circuit_maker/workouts.csv")
 # load the beeps
 single_beep = "~/circuit_maker/single_beep.mp3"
 
-# improvement ideas:
-# 1. resize the buttons (it seems impossible in Mac)
-# 4. enlarge the workout database 
-# 5. figure out what to do when there is insufficient number of workouts based on choice 
-# 6. more continuity between workouts 
-
-
 class Circuits(object):
     # the welcome window
     def init(self, root):
