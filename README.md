@@ -13,7 +13,7 @@ This is a toy project that creates customized workout programs for you. It start
 `pygame`
 
 ## How to use it
-1. Once you have cloned it, go to terminal and run `~/circuit_maker/circuit_gui.py`, it should automatically start.
+1. Once you have cloned it, go to its directory and type `python circuit_gui.py`, it should automatically start.
 
 2.  On this window, specify the number of circuits, the number of sets ( n sets = 1 circuit) and the number of repeats ( e.g. 2 means to repeat each circuit twice).  And select the body part to train and the desired training intensity.
 ![img1](https://github.com/xiaoyuez/circuit_maker/blob/master/images/image1.png)<!-- .element height="50%" width="50%" -->
