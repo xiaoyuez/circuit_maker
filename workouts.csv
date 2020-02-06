@@ -1,43 +1,61 @@
-,Name,Type,Intensity,Weighted,Arms,Legs,Abs,Butt,Back,chosen
-0,Jumping Jacks,Cardio,1,0,0,0,0,0,0,0
-1,High Knees,Cardio,1,0,0,0,0,0,0,0
-2,High Kicks,Cardio,1,0,0,0,0,0,0,0
-3,Courtsy Lunge,Cardio,1,0,0,0,0,0,0,0
-4,Burpees,Cardio,1,0,0,0,0,0,0,0
-5,Lateral Hops,Cardio,1,0,0,0,0,0,0,0
-6,No Rope Jump Rope,Cardio,1,0,0,0,0,0,0,0
-7,Inchworms,Cardio,1,0,0,0,0,0,0,0
-8,Buttkicks,Cardio,1,0,0,0,0,0,0,0
-9,Toe Touch Side Lunges,Cardio,1,0,0,0,0,0,0,0
-10,Weighted Squats,Lower,2,1,0,1,0,1,0,0
-11,Mountain Climbers,Core,2,0,1,0,1,0,0,0
-12,Weighted Side Lifts,Core,2,1,1,1,1,1,0,0
-13,Weighted Lunge Kicks,Lower,2,1,0,1,0,1,0,0
-14,Jumping Squats,Lower,3,0,0,1,0,1,0,0
-15,Weighted Jumping Squats,Lower,3,1,0,1,0,1,0,0
-16,Crunch & Reverse,Core,2,0,0,0,1,0,0,0
-17,Leg Lifts,Core,2,0,0,1,0,0,0,0
-18,Weighted Leg Lifts,Core,3,1,0,1,0,0,0,0
-19,Weighted Plank Lifts,Core,3,1,1,0,1,0,0,0
-20,Side Plank,Core,2,0,1,0,1,0,0,0
-21,Plank Dips,Core,2,0,1,0,1,0,0,0
-22,Weighted Single Leg Balance,Lower,3,1,0,1,0,1,0,0
-23,Back Lifts,Core,2,0,0,0,0,0,1,0
-24,Weighted Back Lifts,Core,2,1,0,0,0,0,1,0
-25,Weighted Deadlifts,Core,3,1,0,1,1,1,1,0
-26,Back Twists,Core,2,0,0,0,0,0,1,0
-27,Band Sidewalks,Lower,2,0,0,1,0,1,0,0
-28,Band Thigh Opener,Lower,2,0,0,1,0,1,0,0
-29,Plank Buttkicks,Core,2,0,1,1,1,1,0,0
-30,Weighted Squat & Lift,Upper,3,1,1,1,1,1,0,0
-31,Crunch Bicycles,Core,2,0,0,0,1,0,0,0
-32,Band Straight Leg Lifts,Lower,3,0,0,1,0,1,0,0
-33,Band Leg Pulses,Lower,3,0,0,0,0,0,1,0
-34,Band Leg Criss-cross,Lower,3,0,0,0,0,0,1,0
-35,Band Fire Hydrant,Lower,3,0,0,0,0,0,1,0
-36,Spiderman,Core,2,0,1,0,1,0,0,0
-37,Pushups & Shoulder Tap,Upper,2,0,1,0,0,0,0,0
-38,Bridge Weight Press,Core,2,1,1,1,0,1,0,0
-39,Single Bridge Weight Press,Core,3,1,1,1,0,1,0,0
-40,Weighted Reverse Fly,Upper,3,1,1,0,1,0,0,0
-41,Bicep Curl with Side Lunge,Upper,3,1,1,1,0,1,0,0
+,Name,Type,Intensity,Weight,Band,Arms,Legs,Abs,Butt,Back,Posture,chosen
+0,Jumping Jacks,Cardio,1,0,0,0,0,0,0,0,standing,0
+1,High Knees,Cardio,1,0,0,0,0,0,0,0,standing,0
+2,High Kicks,Cardio,1,0,0,0,0,0,0,0,standing,0
+3,Courtsy Lunge,Cardio,1,0,0,0,0,0,0,0,standing,0
+4,Burpees,Cardio,1,0,0,0,0,0,0,0,standing,0
+5,Lateral Hops,Cardio,1,0,0,0,0,0,0,0,standing,0
+6,No Rope Jump Rope,Cardio,1,0,0,0,0,0,0,0,standing,0
+7,Inchworms,Cardio,1,0,0,0,0,0,0,0,standing,0
+8,Butt Kicks,Cardio,1,0,0,0,0,0,0,0,standing,0
+9,Toe Touch Side Lunges,Cardio,1,0,0,0,0,0,0,0,standing,0
+10,Alternating Bent-Over Row,Back,2,1,0,1,0,0,0,1,standing,0
+11,Lying Swimmers,Back,2,0,0,1,0,0,0,1,lying_belly,0
+12,Upright Row,Arm,2,1,0,1,0,0,0,0,standing,0
+13,Lateral Raise,Arm,2,1,0,1,0,0,0,0,standing,0
+14,Bent-Over Fly,Arm,2,1,0,1,0,0,0,0,standing,0
+15,Single-Arm Rear Raise,Arm,3,1,0,1,0,0,0,1,standing,0
+16,Extension Plank,Core,2,0,0,1,0,1,0,1,lying_belly,0
+17,High-Low boat pose,Core,2,0,0,0,0,1,0,0,lying_back,0
+18,Lying Windshield Wipers,Core,2,0,0,0,0,1,0,0,lying_back,0
+19,Side-to-side Crunch,Core,2,0,0,0,0,1,0,0,lying_back,0
+20,Toe Reach,Core,2,0,0,0,0,1,0,0,lying_back,0
+21,Circles in the Sky,Core,2,0,0,0,0,1,0,0,lying_back,0
+22,Weighted Squats,Lower,2,1,0,0,1,0,1,0,standing,0
+23,Plié Squats,Lower,2,0,0,0,1,0,1,0,standing,0
+24,Mountain Climbers,Core,2,0,0,1,0,1,0,0,lying_belly,0
+25,Weighted Side Lifts,Core,2,1,0,1,1,1,1,0,standing,0
+26,Weighted Lunge Kicks,Lower,2,1,0,0,1,0,1,0,standing,0
+27,Jumping Squats,Lower,3,0,0,0,1,0,1,0,standing,0
+28,Weighted Jumping Squats,Lower,3,1,0,0,1,0,1,0,standing,0
+29,Crunch & Reverse,Core,2,0,0,0,0,1,0,0,lying_back,0
+30,Lying Leg Lifts,Core,2,0,0,0,1,0,0,0,lying_back,0
+31,Weighted Lying Leg Lifts,Core,3,1,0,0,1,0,0,0,lying_back,0
+32,Weighted Plank Lifts,Core,3,1,0,1,0,1,0,0,lying_belly,0
+33,Weighted Side Plank Dips,Core,3,1,0,1,0,1,0,0,lying_belly,0
+34,Side Plank Dips,Core,2,0,0,1,0,1,0,0,lying_belly,0
+35,Plank Dips,Core,2,0,0,1,0,1,0,0,lying_belly,0
+36,Weighted Single Leg Balance,Lower,3,1,0,0,1,0,1,0,standing,0
+37,Weighted Back Lifts,Core,3,1,0,0,0,0,0,1,lying_belly,0
+38,Back Lifts,Core,2,0,0,0,0,0,0,1,lying_belly,0
+39,Weighted Back Lifts,Core,2,1,0,0,0,0,0,1,lying_belly,0
+40,Weighted Deadlifts,Core,3,1,0,0,1,1,1,1,standing,0
+41,Back Twists,Core,2,0,0,0,0,0,0,1,lying_belly,0
+42,Lying Reverse Fly,Core,2,0,0,0,0,0,0,1,lying_belly,0
+43,Weighted Back Twists,Core,3,1,0,0,0,0,0,1,lying_belly,0
+44,Band Sidewalks,Lower,2,0,1,0,1,0,1,0,standing,0
+45,Band Thigh Opener,Lower,2,0,1,0,1,0,1,0,standing,0
+46,Plank Butt Kicks,Core,2,0,0,1,1,1,1,0,lying_belly,0
+47,Weighted Squat & Lift,Upper,3,1,0,1,1,1,1,0,standing,0
+48,Crunch Bicycles,Core,2,0,0,0,0,1,0,0,lying_back,0
+49,Band Straight Leg Lifts,Lower,3,0,1,0,1,0,1,0,lying_belly,0
+50,Band Leg Pulses,Lower,3,0,1,0,0,0,0,1,lying_belly,0
+51,Band Leg Criss-cross,Lower,3,0,1,0,0,0,0,1,lying_belly,0
+52,Band Fire Hydrant,Lower,3,0,1,0,0,0,0,1,lying_belly,0
+53,Spiderman,Core,2,0,0,1,0,1,0,0,lying_belly,0
+54,Pushups & Shoulder Tap,Upper,2,0,0,1,0,0,0,0,lying_belly,0
+55,Bridge Weight Press,Lower,2,1,0,1,1,0,1,0,lying_back,0
+56,Bridge,Lower,2,0,0,0,1,0,1,0,lying_back,0
+57,Single Bridge,Lower,2,0,0,1,1,0,1,0,lying_back,0
+58,Weighted Reverse Fly,Upper,3,1,0,1,0,1,0,0,lying_belly,0
+59,Bicep Curl with Side Lunge,Upper,3,1,0,1,1,0,1,0,standing,0
