@@ -29,6 +29,5 @@ This is a toy project that creates customized workout programs for you. It start
 ![img7](https://github.com/xiaoyuez/circuit_maker/blob/master/images/7.png)
 
 ## Future improvements
-1. As this started out as a personal project, it just provides the workout name, assuming the user already knows what to do.  In the future version, I would like to add some verbal / image / video instructions to make it clear to new users. 
-2. I did not implement a warning system that alerts the user if the option selected (e.g. 4 circuits, 4 sets, Back, High intensity) results in insuffiicent workouts in the database. This will be added in the future version. 
-3. I would also like to add a `weights?` feature, so that you can do just a bodyweight workout when you don't have the weights. 
+1. Enlarge the workout database.
+2. Maybe add a restart button.
