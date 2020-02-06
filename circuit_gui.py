@@ -30,7 +30,7 @@ class Circuits(object):
         self.weight = 1 # has weights
         self.band = 1 # has band
 
-        TESTING = 1 # for testing 
+        TESTING = 0 # for testing 
         if TESTING == 1:
             self.circ_val = 4
             self.set_val = 4
@@ -44,11 +44,11 @@ class Circuits(object):
             self.circ_val = 4
             self.set_val = 4
             self.repeat_val = 2
-            self.ht_val = '50'
-            self.lt_val = '10'
-            self.between_val = '45'
-            self.warmup_val = '60'
-            self.cool_val = '60'
+            self.ht_val = 50
+            self.lt_val = 10
+            self.between_val = 45
+            self.warmup_val = 60
+            self.cool_val = 60
 
         self.frame = tk.Frame(root)
         self.frame.pack()
